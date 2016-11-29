@@ -1,0 +1,2 @@
+To make a repository run:
+git init .
