@@ -1,13 +1,13 @@
-To make a repository run:
+##To make a repository run:
 git init SOME_FOLDER
 
-add new file
+##add new file
 git add
 
-commit file
+##commit file
 git commit -m
 
 www.github.com
 
-to download a repository
+##to download a repository
 git clone URL_FROM_GITHUB
