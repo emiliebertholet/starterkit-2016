@@ -1,2 +1,9 @@
 To make a repository run:
-git init .
+git init SOME_FOLDER
+
+add new file
+git add
+
+commit file
+git commit -m
+
